@@ -110,6 +110,8 @@ translator:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
+menu:
+  page_size: 9
 punctuator:
   import_preset: symbols
   full_shape:
